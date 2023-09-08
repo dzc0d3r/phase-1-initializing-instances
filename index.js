@@ -25,4 +25,4 @@ class Dinner {
     }
 }
 
-/** I wish all assigne */
+/** I wish all assignements were easy like this one lol */
